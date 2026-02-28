@@ -1,5 +1,5 @@
 Belajar Pertama
 Semoga istiqomah
 Belajar GIt & Github dichannel Wpu
-Menegerjakan Tugas Kuliah
 Menerjakan Tugas Pemograman Platform Yaitu Laravel tentang routes
+Menegrjakan Tugas Bu yayak yaitu membuat video kanban
